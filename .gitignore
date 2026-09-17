@@ -17,8 +17,8 @@ ENV/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Model artifacts — kept in repo (small)
-# models/*.joblib  ← intentionally tracked
+# Model artifacts
+models/train_test_split.joblib
 
 # Large raw outputs / temporary files
 *.log

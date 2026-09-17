@@ -295,8 +295,7 @@ jupyter notebook notebooks/
 │   └── predict.py                  # Reusable predict_price() function
 ├── models/
 │   ├── final_pipeline.joblib       # Fitted sklearn Pipeline
-│   ├── feature_metadata.joblib     # Feature metadata and metrics
-│   └── train_test_split.joblib     # Saved train/test split
+│   └── feature_metadata.joblib     # Feature metadata and metrics
 ├── app.py                          # Streamlit application
 ├── requirements.txt
 ├── .gitignore
